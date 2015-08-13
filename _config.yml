@@ -1,0 +1,12 @@
+# Site settings
+title: English at Longleaf School of the Arts
+email: gregory@longleafschool.com
+description: "Mr. Gregory's English classes at Longleaf School of the Arts"
+baseurl: ""
+url: "http://lsa-gregory.github.io"
+
+# Build settings
+markdown: rdiscount
+permalink: pretty
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
